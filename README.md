@@ -1,5 +1,5 @@
 # WRF-UACM Urban Model (v3.8)
-### Weather Research and Forecasting – Urban Atmospheric Canopy Model
+### Weather Research and Forecasting – Urban Asymmetric Convetive Model
 
 ---
 
