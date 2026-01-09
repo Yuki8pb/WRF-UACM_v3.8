@@ -37,5 +37,27 @@ Bhautmage, U. P., Fung, J. C. H., Pleim, J., & Wong, M. M. F. (2022). Developmen
 
 ---
 
+```text
+WRF/
+├── frame/
+│   └── module_domain_type.f90
+├── phys/
+│   ├── get_env.F
+│   ├── Makefile
+│   ├── module_bl_acm.F
+│   ├── module_pbl_driver.F
+│   ├── module_physics_init.F
+│   ├── module_sf_pxlsm.F
+│   ├── module_sf_pxlsm_data.F
+│   └── module_surface_driver.F
+├── dyn_em/
+│   ├── module_first_rk_step_part1.F
+│   └── start_em.F
+├── Registry/
+│   └── Registry.EM_COMMON
+└── run/
+    ├── dhlurb_utk.txt
+    └── namelist.input
+
 
 
