@@ -13,6 +13,8 @@ It enhances the representation of:
 - Boundary-layer processes
 - Anthropogenic heat fluxes (optional)
 
+**NOTE**: Use `README.txt` file for the WRF-UACM model setup and configuration setting details.
+
 ---
 
 ## Author & Contact
