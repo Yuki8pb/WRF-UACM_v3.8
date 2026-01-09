@@ -37,6 +37,8 @@ Bhautmage, U. P., Fung, J. C. H., Pleim, J., & Wong, M. M. F. (2022). Developmen
 
 ---
 
+## Repository Structure
+
 ```text
 WRF/
 ├── frame/
