@@ -38,7 +38,7 @@ dhlurb_utk.txt
 namelist.input
 
 
-configure the WRF v3.8 code with option(3): PGI (pgf90/gcc), or option (15): intel before recompiling the WRF code.
+configure the WRF v3.8 code with option(3): PGI (pgf90/gcc), or option(15): intel before recompiling the WRF code.
 
 
 
